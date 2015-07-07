@@ -10,7 +10,7 @@ Blue
 
 ###Cats or Dogs?
 
-Your answer goes here
+I have 2 cats and 1 dog.
 
 ###What would constitute a “perfect” day for you?
 
